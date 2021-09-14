@@ -17,7 +17,7 @@ __version__ = 2.0
 __status__ = "Stable"
 __author__ = "Jamiu Mustorpha"
 __date__ = "14-07-2021"
-__all__ = "YoutubeDownloader : single_player, disableButton, search, ran, btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, kw, checkForWin, Multiplayer, TF, normalButton, btnclivk, main"
+__all__ = "single_player, disableButton, search, ran, btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, kw, checkForWin, Multiplayer, TF, normalButton, btnclivk, main"
 
 def single_player():
     tk = Tk()
