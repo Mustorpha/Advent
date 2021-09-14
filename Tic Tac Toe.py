@@ -1,7 +1,7 @@
 '''
     Tic Tac Toe game
-    still under modification
-    Algorithm: '10 Algorithm - Sutherland
+    Allows Single User 
+    And Mutliplayer
     Open Source license
 '''
 
