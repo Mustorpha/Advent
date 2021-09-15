@@ -1,4 +1,3 @@
 # Advent
-Tiny tic tac toe game
-in-code algorithm under updates
-First repository to GIt
+-Tiny tic tac toe game
+-First repository to GIt
