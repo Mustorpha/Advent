@@ -1,3 +1,3 @@
 # Advent
 - Tiny tic tac toe game
-- First repository to GIT
+- First Repository on GITHUB
